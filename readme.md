@@ -1,7 +1,7 @@
 # 🧊 Sistema de Raspadinha
 ## 💡 Sobre o Projeto
 
-Este sistema de raspadinha é uma poderosa solução para negócios de iGaming, projetada para oferecer uma experiência envolvente, segura e altamente lucrativa. Embora o sistema **não tenha sido desenvolvido por @hugosilva021**, ele está sendo **disponibilizado gratuitamente** por ele para a comunidade que deseja empreender com qualidade e escalabilidade.
+Este sistema de raspadinha é uma poderosa solução para negócios de iGaming, projetada para oferecer uma experiência envolvente, segura e altamente lucrativa. Embora o sistema **não tenha sido desenvolvido por mim**, ele está sendo **disponibilizado gratuitamente** por ele para a comunidade que deseja empreender com qualidade e escalabilidade.
 
 > ✅ A distribuição gratuita reforça o compromisso com o crescimento do setor de jogos online e com a democratização do acesso à tecnologia.
 
@@ -35,12 +35,11 @@ Se você deseja rodar o sistema com **estabilidade máxima**, sem risco de queda
 
 ### 🌐 Servidores VPS Premium com Garantia Anti-DDoS
 
-- Fornecidos por: **@hugosilva021**
+- Fornecidos por: mim
 - Proteção 100% Anti-DDoS
 - Alta performance para jogos e sistemas de apostas
 - Preço acessível com garantia de qualidade
 
-📩 Entre em contato via Telegram: `@hugosilva021`
 
 ---
 
@@ -58,5 +57,5 @@ Se você deseja rodar o sistema com **estabilidade máxima**, sem risco de queda
 **Este projeto é gratuito, mas altamente profissional.**  
 A comunidade está crescendo, e você pode fazer parte dela hoje mesmo.
 
-- Suporte para dúvidas e implementação: `@hugosilva021`
+- Suporte para dúvidas e implementação
 - Atualizações e melhorias futuras: verifique com frequência!
