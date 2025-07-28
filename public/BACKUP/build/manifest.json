@@ -1,0 +1,114 @@
+{
+  "assets/images/carteira.png": {
+    "file": "assets/carteira-2fcd284f.png",
+    "src": "public/assets/images/pix_normal.png"
+  },
+  "assets/images/cassino-small.png": {
+    "file": "assets/cassino-small-3b2680a4.png",
+    "src": "assets/images/cassino-small.png"
+  },
+  "assets/images/cassino.png": {
+    "file": "assets/cassino-527189c0.png",
+    "src": "assets/images/cassino.png"
+  },
+  "assets/images/icon.png": {
+    "file": "assets/icon-8b3b430e.png",
+    "src": "assets/images/icon.png"
+  },
+  "assets/images/jack.png": {
+    "file": "assets/jack-1285e691.png",
+    "src": "assets/images/jack.png"
+  },
+  "assets/images/sport-small.png": {
+    "file": "assets/sport-small-5e566ee2.png",
+    "src": "assets/images/sport-small.png"
+  },
+  "assets/images/sport.png": {
+    "file": "assets/sport-a0e04fbf.png",
+    "src": "assets/images/sport.png"
+  },
+  "lang/en.json": {
+    "file": "assets/en-689817bf.js",
+    "isDynamicEntry": true,
+    "src": "lang/en.json"
+  },
+  "lang/es.json": {
+    "file": "assets/es-716700b2.js",
+    "isDynamicEntry": true,
+    "src": "lang/es.json"
+  },
+  "lang/php_en.json": {
+    "file": "assets/php_en-e372bb40.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_en.json"
+  },
+  "lang/php_es.json": {
+    "file": "assets/php_es-047a2e64.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_es.json"
+  },
+  "lang/php_pt_BR.json": {
+    "file": "assets/php_pt_BR-7b39052f.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_pt_BR.json"
+  },
+  "lang/php_vendor.json": {
+    "file": "assets/php_vendor-92955918.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_vendor.json"
+  },
+  "lang/pt_BR.json": {
+    "file": "assets/pt_BR-06953e2c.js",
+    "isDynamicEntry": true,
+    "src": "lang/pt_BR.json"
+  },
+  "public/assets/images/icons/pix.png": {
+    "file": "assets/pix-771dd974.png",
+    "src": "public/assets/images/icons/pix.png"
+  },
+  "public/assets/images/pix_normal.png": {
+    "file": "assets/carteira-2fcd284f.png",
+    "src": "public/assets/images/pix_normal.png"
+  },
+  "public/assets/images/sem_reg.webp": {
+    "file": "assets/sem_reg-0dbdbb4c.webp",
+    "src": "public/assets/images/sem_reg.webp"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-db6c78ce.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/sem_reg-0dbdbb4c.webp",
+      "assets/pix-771dd974.png",
+      "assets/jack-1285e691.png",
+      "assets/icon-8b3b430e.png",
+      "assets/carteira-2fcd284f.png",
+      "assets/cassino-527189c0.png",
+      "assets/cassino-small-3b2680a4.png",
+      "assets/sport-a0e04fbf.png",
+      "assets/sport-small-5e566ee2.png"
+    ],
+    "css": [
+      "assets/app-db6c78ce.css"
+    ],
+    "dynamicImports": [
+      "lang/en.json",
+      "lang/es.json",
+      "lang/php_en.json",
+      "lang/php_es.json",
+      "lang/php_pt_BR.json",
+      "lang/php_vendor.json",
+      "lang/pt_BR.json"
+    ],
+    "file": "assets/app-359a32a3.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
